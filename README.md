@@ -1,2 +1,2 @@
 # DarkMode
-Cambiar de tema, de claro a oscuro
+Cambiar de tema, de claro a oscuro con scss
